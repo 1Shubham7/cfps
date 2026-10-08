@@ -1,4 +1,15 @@
-New to CNCF? 5 Practical Tips to Get Involved and Make Your First Contribution
+---
+title: "New to CNCF? 5 Practical Tips to Get Involved and Make Your First Contribution"
+outcome: unknown
+conferences: [KubeCon + CloudNativeCon, edition to be filled in]
+format: Lightning talk
+field: community
+speaker: I
+---
+
+Submitted before this repo was sorted by outcome. Result to be filled in.
+
+## Description
 
 Getting started with CNCF projects can feel intimidating. Big codebases, complex systems, and experienced maintainers often make new contributors feel like they need to “learn everything first” before sending their first PR.
 

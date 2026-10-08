@@ -1,4 +1,15 @@
-### 1. Compliance-Ready Kubernetes: Using Logs, Policies, and Git with KubeAid
+---
+title: "Compliance-Ready Kubernetes: Using Logs, Policies, and Git with KubeAid"
+outcome: unknown
+conferences: [OpenSearchCon, edition to be filled in]
+format: Session
+field: platform
+speaker: we
+---
+
+Submitted before this repo was sorted by outcome. Result to be filled in.
+
+## Description
 
 Compliance in Kubernetes is often handled through manual checks, spreadsheets, and ad-hoc audits - approaches that don’t scale as clusters grow and environments multiply. In this talk, we’ll explore how to build compliance-ready Kubernetes clusters using logs, policies, and GitOps with KubeAid.
 
