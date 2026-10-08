@@ -23,6 +23,9 @@ Format:
 ## KCD Gujarat 2026
 - **Cilium Network Policy Anti-Patterns I Learned the Hard Way** (Lightning talk, Security): waitlisted. Why: [to fill in]. File: `selected/cilium-network-policy-anti-patterns.md`.
 
+## Open Source SecurityCon Europe 2027 (KubeCon EU 2027 co-located)
+- **Open Source Is Not Exempt: What the CRA Really Asks of Open Source Projects and Vendors** (Presentation 25 min, Regulation + Public Policy): pending, submitted 2026-10-08. Description cut to the 1,000-character limit. File: `pending/cra-open-source-is-not-exempt-securitycon.md`.
+
 ## KubeCon + CloudNativeCon Europe 2027
 - **The Clock Is Already Running: Will the CRA Block Your Product from Shipping to the EU?** (Session, Security): pending. File: `pending/cra-clock-is-already-running.md`.
 - **Open Source Is Not Exempt: What the CRA Really Asks of Open Source Projects and Vendors** (Session, Security): pending. File: `pending/cra-open-source-is-not-exempt.md`.
