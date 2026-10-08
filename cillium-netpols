@@ -1,7 +1,0 @@
-### Cilium Network Policy Anti-Patterns I Learned the Hard Way
-
-Writing Network Policies looks straightforward - until traffic starts getting blocked for reasons that aren’t obvious, policies silently match nothing, or things work in staging but fail in production. I learned this the hard way while writing and designing Network Policies used by multiple teams across multiple Kubernetes clusters, and debugging policy failures in real production environments.
-
-In this lightning talk, I’ll share the most common Cilium Network Policy anti-patterns one can run into. We’ll look at real examples of policies that look correct but are wrong, why certain design decisions matter, and how small mistakes can lead to confusing failures. Each example will be drawn from real world usage and paired with the corrected approach.
-
-We will highlight practical tips and anti-patterns that are rarely documented, and brings together the key things you need to know to reliably firewall Kubernetes workloads using Cilium Network Policies.
