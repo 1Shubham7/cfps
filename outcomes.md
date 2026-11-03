@@ -17,6 +17,9 @@ Format:
 - A session proposal promising four things in one slot (enable, policy, ship, alert) has not been accepted so far. Hypothesis: one point made well beats a tutorial.
 - Compliance drafts were cut by hand to name areas rather than list every item, and to remove asides, self-praise and digs at other guidance. That is the house style.
 
+## FOSDEM 2027
+- **Open Source Is Not Exempt: What the CRA Really Asks of Open Source Projects and Vendors** (Devroom talk, Beyond the CRA - Building Secure and Resilient Open Source): pending, submitted 2026-11-02 through pretalx. KubeCon EU 2027 text with project links added for FOSDEM and the benefits text moved into the private submission notes. File: `pending/cra-open-source-is-not-exempt-fosdem.md`.
+
 ## Cloud Native Summit Kerala 2026
 - **Cilium Network Policy Anti-Patterns I Learned the Hard Way** (Lightning talk, Security): accepted. Why: [to fill in]. File: `selected/cilium-network-policy-anti-patterns.md`.
 
