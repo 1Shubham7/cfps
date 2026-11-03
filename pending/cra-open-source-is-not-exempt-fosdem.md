@@ -40,3 +40,10 @@ Speaker: Shubham Singh Mahar, Site Reliability Engineer at Obmondo, a Danish man
 ## Speaker Biography
 
 Shubham is a Site Reliability Engineer by day and a Cloud Native Developer by night. He is a Certified Kubernetes Administrator (CKA) and a graduated LFX Mentee with CNCF KubeEdge. He has been contributing to CNCF projects for over three years and has been working with startups for over three years. Over the last two years he has helped multiple organisations build and audit infra against global security and compliance standards.
+
+## Form choices
+
+- Track: Beyond the CRA - Building Secure and Resilient Open Source
+- Software license(s): KubeAid: AGPL-3.0. Trivy: Apache-2.0. Falco: Apache-2.0. CISO Assistant: AGPL-3.0.
+- Recording release (CC-BY / CC-BY-SA) and Code of Conduct: agreed by Shubham
+- Session image, additional speaker, matrix id, extra contact: left empty
