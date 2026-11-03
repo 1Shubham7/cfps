@@ -36,3 +36,7 @@ Why this talk, in this devroom: open source is at a turning point. For years its
 Length: we can fit 25 to 30 minutes plus questions, or shorten to a 20 minute slot if the devroom schedule needs it.
 
 Speaker: Shubham Singh Mahar, Site Reliability Engineer at Obmondo, a Danish managed service provider, maintainer on KubeAid, CNCF contributor (Kyverno, KubeEdge, kgateway, ArgoCD), Certified Kubernetes Administrator. Previous talks: KubeCon 2024, Open Source Summit 2025, Cloud Native Summit, IndiaFOSS. Recordings: KubeEdge deep dive https://www.youtube.com/watch?v=KOqvDqtmIpA and Cilium Network Policy Anti-Patterns https://www.youtube.com/watch?v=WYleGWU5exw
+
+## Speaker Biography
+
+Shubham is a Site Reliability Engineer by day and a Cloud Native Developer by night. He is a Certified Kubernetes Administrator (CKA) and a graduated LFX Mentee with CNCF KubeEdge. He has been contributing to CNCF projects for over three years and has been working with startups for over three years. Over the last two years he has helped multiple organisations build and audit infra against global security and compliance standards.
